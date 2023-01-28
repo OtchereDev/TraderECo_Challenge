@@ -1,5 +1,4 @@
 import React, { Dispatch, SetStateAction, useState } from "react";
-import { ICartBody } from "../../pages/api/update-cart";
 import { toast } from "react-toastify";
 import Image from "next/image";
 import { IProduct } from "../../types/products";
